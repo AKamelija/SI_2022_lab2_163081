@@ -1,5 +1,7 @@
 # SI_2022_lab2_163081
 
+Камелија Ангелова 163081
+
 Control Flow Graph
 
 https://prnt.sc/AR-3gQmDy0wH
